@@ -30,6 +30,8 @@ A figura abaixo mostra uma parte do conjunto de dados utilizado neste projeto.
   <img src="/DiegoAndradeDS/diegoandradeds.github.io/tree/master/assets/img/analise_vendas_representantes/dados.png" >
 </p>
 
+<center><img src="https://diegoandradeds.github.io/assets/img/analise_vendas_representantes" width="450" ></center>
+
 ![Dados]({{site.baseurl}}/assets/img/analise_vendas_representantes/dados.png)
 
 ![Macbook]({{site.baseurl}}/assets/img/mac.jpg)
