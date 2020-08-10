@@ -27,7 +27,7 @@ Descrever objetivos do projeto
 A figura abaixo mostra uma parte do conjunto de dados utilizado neste projeto. 
 
 <p align="center">
-  <img src="dados.png" >
+  <img src="https://github.com/DiegoAndradeDS/diegoandradeds.github.io/tree/master/assets/img/dados.png" >
 </p>
 
 Descrição das colunas:
