@@ -7,8 +7,9 @@ img: recrutamento.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Data Science, Python, Machine Learning]
 ---
+Neste projeto foi criado um modelo preditivo de Machine Learning para identificar qual colaborador deverá receber uma promoção. 
 
-s
+O departamento de Recursos Humanos atualmente possui um processo de coleta, processamento e análise dos dados, que é em sua maior parte manual. Dessa forma o RH enfrenta um problema 
 
 Inserir texto do projeto aqui
 
