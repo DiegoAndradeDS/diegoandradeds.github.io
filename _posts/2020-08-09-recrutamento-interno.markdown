@@ -8,6 +8,8 @@ fig-caption: # Add figcaption (optional)
 tags: [Data Science, Python, Machine Learning]
 ---
 
+
+
 Inserir texto do projeto aqui
 
 ## Context
