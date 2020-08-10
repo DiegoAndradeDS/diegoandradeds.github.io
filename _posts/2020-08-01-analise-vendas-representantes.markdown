@@ -30,6 +30,8 @@ A figura abaixo mostra uma parte do conjunto de dados utilizado neste projeto.
   <img src="/DiegoAndradeDS/diegoandradeds.github.io/tree/master/assets/img/analise_vendas_representantes/dados.png" >
 </p>
 
+![Macbook]({{site.baseurl}}/assets/img/mac.jpg)
+
 Descrição das colunas:
 * **Representantes:** informa o nome dos representantes de vendas responsável por aquela venda. 
 * **Produto:** informa o produto vendido 
