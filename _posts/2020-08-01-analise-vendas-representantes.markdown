@@ -26,15 +26,7 @@ Descrever objetivos do projeto
 
 A figura abaixo mostra uma parte do conjunto de dados utilizado neste projeto. 
 
-<p align="center">
-  <img src="/DiegoAndradeDS/diegoandradeds.github.io/tree/master/assets/img/analise_vendas_representantes/dados.png" >
-</p>
-
 <center><img src="https://diegoandradeds.github.io/assets/img/analise_vendas_representantes/dados.png" width="450"></center>
-
-![Dados]({{site.baseurl}}/assets/img/analise_vendas_representantes/dados.png)
-
-![Macbook]({{site.baseurl}}/assets/img/mac.jpg)
 
 Descrição das colunas:
 * **Representantes:** informa o nome dos representantes de vendas responsável por aquela venda. 
@@ -49,31 +41,21 @@ O conjunto de dados completo possui 10 mil linhas, onde temos 72 Representantes 
 
 No gráfico abaixo podemos visualizar como estão distribuidos os RVs em cada região. As regiões Norte e Oeste são as que possuem mais representantes.
 
-<p align="center">
-  <img src="numrepresentantesporregiao.png" >
-</p>
+<center><img src="https://diegoandradeds.github.io/assets/img/analise_vendas_representantes/numrepresentantesporregiao.png" width="450"></center>
 
 Também é importante identificarmos qual a contribuição de cada região para a receita total da empresa conforme mostra o gráfico abaixo.
 
-<p align="center">
-  <img src="receitaporregiao.png" >
-</p>
+<center><img src="https://diegoandradeds.github.io/assets/img/analise_vendas_representantes/receitaporregiao.png" width="450"></center>
 
 Aqui é possível perceber que as regiões (Norte e Oeste) que possuem mais RVs são as que geram maior receita. Não necessariamente isso representa uma relação de causa e efeito, porém seria valida uma análise mais aprofundada para saber o impacto na receita de uma região com a variação do número de representantes que atuam nela. Para isso seria necessário que os dados disponíveis possuissem uma dimensão de tempo.
 
 Para entendermos melhor o comportamento da receita precisamos identificar o impacto de cada produto na receita, conforme pode ser visto pelas barras verdes do gráfico a seguir. A linha laranja representa a quantidade vendida de determinado produto.
 
-<p align="center">
-  <img src="comparacaoreceitaeunidadesvendidas.png" >
-</p>
+<center><img src="https://diegoandradeds.github.io/assets/img/analise_vendas_representantes/comparacaoreceitaeunidadesvendidas.png" width="450"></center>
+
 
 O produto Alpen é o que gera mais receita para a empresa, além disso o seu volume de vendas é o mais alto também. Em contrapartida, o produto Halls é o produto menos vendido e também é o que gera menos receita para a empresa. Já os produtos Galaxy e Milka geram uma receita parecida entre 900 mil e 950 mil porém a quantidade de Milka vendida é um pouco mais que o dobro dos Galaxys, isso se deve ao fato dos produtos possuirem preços diferentes conforme pode ser visto no gráfico abaixo que exibe o preço médio de cada produto.  
 
-<p align="center">
-  <img src="precomediodosprodutos.png" >
-</p>
+<center><img src="https://diegoandradeds.github.io/assets/img/analise_vendas_representantes/precomediodosprodutos.png" width="450"></center>
 
-
-<p align="center">
-  <img src="classificandoprodutos.png" >
-</p>
+<center><img src="https://diegoandradeds.github.io/assets/img/analise_vendas_representantes/classificandoprodutos.png" width="450"></center>
