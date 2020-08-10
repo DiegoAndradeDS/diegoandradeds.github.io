@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RH - Recrutamento interno
-date: 2020-08-01 13:32:20 +0300
+date: 2020-08-09 13:32:20 +0300
 description: Neste projeto criei um modelo de Machine Learning para identificar qual funcionário deverá receber uma promoção. # Add post description (optional)
 img: recrutamento.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
