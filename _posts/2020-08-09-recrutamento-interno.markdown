@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RH - Recrutamento interno
+title: Machine Learning aplicada em processo de seleção interna (Recursos Humanos)
 date: 2020-08-09 13:32:20 +0300
 description: Neste projeto criei um modelo de Machine Learning para identificar qual funcionário deverá receber uma promoção. # Add post description (optional)
 img: recrutamento.jpg # Add image post (optional)
