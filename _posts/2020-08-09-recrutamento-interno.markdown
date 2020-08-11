@@ -2,7 +2,7 @@
 layout: post
 title: Machine Learning aplicada em processo de seleção interna (Recursos Humanos)
 date: 2020-08-09 13:32:20 +0300
-description: Neste projeto criei um modelo de Machine Learning para identificar qual funcionário deverá receber uma promoção. # Add post description (optional)
+description: Neste projeto criei um modelo de Machine Learning para identificar qual funcionário deverá ser promovido. # Add post description (optional)
 img: recrutamento.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Data Science, Python, Machine Learning, Recursos Humanos, Recrutamento e Seleção, Recrutamento interno]
