@@ -5,9 +5,9 @@ date: 2020-08-09 13:32:20 +0300
 description: Neste projeto criei um modelo de Machine Learning para identificar qual funcionário deverá receber uma promoção. # Add post description (optional)
 img: recrutamento.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Data Science, Python, Machine Learning]
+tags: [Data Science, Python, Machine Learning, Recursos Humanos, Recrutamento e Seleção, Recrutamento interno]
 ---
-* Neste projeto é desenvolvido um modelo de Machine Learning para identificar qual colaborador deverá receber uma promoção. * 
+*Neste projeto é desenvolvido um modelo de Machine Learning para identificar qual colaborador deverá receber uma promoção.* 
 
 O departamento de Recursos Humanos atualmente possui um processo de coleta, processamento e análise dos dados, que é em sua maior parte manual. Dessa forma o RH enfrenta um problema 
 
