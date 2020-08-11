@@ -14,6 +14,14 @@ O departamento de Recursos Humanos atualmente possui um processo de coleta, proc
 
 A Ciência de Dados está revolucionando o modo com que o setor de Recursos Humanos funciona, trazendo uma maior eficiência e melhores resultados. Recursos Humanos 
 
+# Introdução
+
+
+
+O recrutamento interno é feito com funcionários da própria empresa. O primeiro passo na procura de pessoal é o recrutamento dentro da empresa, assim aproveitando e dando oportunidades aos funcionários já existentes na organização. O recrutamento interno exige uma série de dados e informações relacionadas, como: resultado dos testes de seleção, resultado das avaliações de desempenho, resultado dos programas de treinamento e aperfeiçoamento, exame das análises e discrições de cargos, exames dos planos de carreiras e verificação das condições de promoção e substituição. As grandes vantagens desse processo são a rapidez, os menores custos de recrutamento, seleção e treinamento do pessoal, já se conhece o desempenho anterior do funcionário, a criação de um clima sadio de progresso profissional, o aumento a moral e a motivação dos funcionários, desenvolvimento de uma positiva e sadia competição entre as pessoas.
+
+A seleção é o processo pelo qual uma organização escolhe de uma lista de candidatos, a pessoa que melhor alcança os critérios de seleção, para a posição disponível, considerando as atuais condições de mercado.
+
 
 ## Context
 HR analytics is revolutionising the way human resources departments operate, leading to higher efficiency and better results overall. Human resources has been using analytics for years. However, the collection, processing and analysis of data has been largely manual, and given the nature of human resources dynamics and HR KPIs, the approach has been constraining HR. Therefore, it is surprising that HR departments woke up to the utility of machine learning so late in the game. Here is an opportunity to try predictive analytics in identifying the employees most likely to get promoted.
