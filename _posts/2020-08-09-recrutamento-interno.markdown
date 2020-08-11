@@ -7,11 +7,13 @@ img: recrutamento.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Data Science, Python, Machine Learning]
 ---
-Neste projeto foi criado um modelo preditivo de Machine Learning para identificar qual colaborador deverá receber uma promoção. 
+* Neste projeto é desenvolvido um modelo de Machine Learning para identificar qual colaborador deverá receber uma promoção.* 
 
 O departamento de Recursos Humanos atualmente possui um processo de coleta, processamento e análise dos dados, que é em sua maior parte manual. Dessa forma o RH enfrenta um problema 
 
-Inserir texto do projeto aqui
+
+A Ciência de Dados está revolucionando o modo com que o setor de Recursos Humanos funciona, trazendo uma maior eficiência e melhores resultados. Recursos Humanos 
+
 
 ## Context
 HR analytics is revolutionising the way human resources departments operate, leading to higher efficiency and better results overall. Human resources has been using analytics for years. However, the collection, processing and analysis of data has been largely manual, and given the nature of human resources dynamics and HR KPIs, the approach has been constraining HR. Therefore, it is surprising that HR departments woke up to the utility of machine learning so late in the game. Here is an opportunity to try predictive analytics in identifying the employees most likely to get promoted.
