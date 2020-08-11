@@ -9,16 +9,18 @@ tags: [Data Science, Python, Machine Learning, Recursos Humanos, Recrutamento e 
 ---
 *Neste projeto é desenvolvido um modelo de Machine Learning para identificar qual colaborador deve ser promovido.* 
 
-O departamento de Recursos Humanos atualmente possui um processo de coleta, processamento e análise dos dados, que é em sua maior parte manual. Dessa forma o RH enfrenta um problema 
-
-
-A Ciência de Dados está revolucionando o modo com que o setor de Recursos Humanos funciona, trazendo uma maior eficiência e melhores resultados. Recursos Humanos 
 
 # Introdução
 
 
-
 O recrutamento interno é feito com funcionários da própria empresa. O primeiro passo na procura de pessoal é o recrutamento dentro da empresa, assim aproveitando e dando oportunidades aos funcionários já existentes na organização. O recrutamento interno exige uma série de dados e informações relacionadas, como: resultado dos testes de seleção, resultado das avaliações de desempenho, resultado dos programas de treinamento e aperfeiçoamento, exame das análises e discrições de cargos, exames dos planos de carreiras e verificação das condições de promoção e substituição. As grandes vantagens desse processo são a rapidez, os menores custos de recrutamento, seleção e treinamento do pessoal, já se conhece o desempenho anterior do funcionário, a criação de um clima sadio de progresso profissional, o aumento a moral e a motivação dos funcionários, desenvolvimento de uma positiva e sadia competição entre as pessoas. Após e etapa de recrutamento é necessário fazer o processo de seleção onde, a organização escolhe de uma lista de candidatos, a pessoa que melhor alcança os critérios de seleção, para a posição disponível, considerando as atuais condições de mercado.
+
+## O problema
+
+O departamento de Recursos Humanos atualmente possui um processo de coleta, processamento e análise dos dados, que é em sua maior parte manual. Dessa forma o RH enfrenta um problema 
+
+
+A Ciência de Dados está revolucionando o modo com que o setor de Recursos Humanos funciona, trazendo uma maior eficiência e melhores resultados. Recursos Humanos 
 
 
 ## Context
