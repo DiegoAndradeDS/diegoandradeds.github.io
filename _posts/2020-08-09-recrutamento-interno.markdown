@@ -44,9 +44,9 @@ This data set has been scraped from a contest held by https://www.analyticsvidhy
 ## testando
 
 ```python
-    import numpy as np
+import numpy as np
 
-    def test_function(x, y):
-      z = np.sum(x,y)
+def test_function(x, y):
+   z = np.sum(x,y)
       return z
 ```
