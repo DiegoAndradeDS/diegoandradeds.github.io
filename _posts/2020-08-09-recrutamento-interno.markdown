@@ -43,8 +43,10 @@ This data set has been scraped from a contest held by https://www.analyticsvidhy
 
 ## testando
 
-´´´python
+```python
+    import numpy as np
 
-testando linha de codigo
-
-´´´
+    def test_function(x, y):
+      z = np.sum(x,y)
+      return z
+```
