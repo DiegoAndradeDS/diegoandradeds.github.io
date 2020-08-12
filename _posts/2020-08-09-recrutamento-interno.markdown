@@ -50,3 +50,68 @@ def test_function(x, y):
    z = np.sum(x,y)
       return z
 ```
+
+
+
+{
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import pandas as pd"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df = pd.read_csv(\"dataset.csv\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Limpando os dados "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "<class 'pandas.core.frame.DataFrame'>\n",
+      "RangeIndex: 54808 entries, 0 to 54807\n",
+      "Data columns (total 14 columns):\n",
+      " #   Column                Non-Null Count  Dtype  \n",
+      "---  ------                --------------  -----  \n",
+      " 0   employee_id           54808 non-null  int64  \n",
+      " 1   department            54808 non-null  object \n",
+      " 2   region                54808 non-null  object \n",
+      " 3   education             52399 non-null  object \n",
+      " 4   gender                54808 non-null  object \n",
+      " 5   recruitment_channel   54808 non-null  object \n",
+      " 6   no_of_trainings       54808 non-null  int64  \n",
+      " 7   age                   54808 non-null  int64  \n",
+      " 8   previous_year_rating  50684 non-null  float64\n",
+      " 9   length_of_service     54808 non-null  int64  \n",
+      " 10  KPIs_met >80%         54808 non-null  int64  \n",
+      " 11  awards_won?           54808 non-null  int64  \n",
+      " 12  avg_training_score    54808 non-null  int64  \n",
+      " 13  is_promoted           54808 non-null  int64  \n",
+      "dtypes: float64(1), int64(8), object(5)\n",
+      "memory usage: 5.9+ MB\n"
+     ]
+    }
+   ],
+   "source": [
+    "df.info()"
+   ]
+  },
