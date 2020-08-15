@@ -162,7 +162,7 @@ testando outro codigo
 <div>
 <table border="1" class="dataframe table-responsive">
   <thead>
-    <tr style="text-align: right;">
+    <tr style="text-align: left;">
       <th></th>
       <th>age</th>
       <th>workclass</th>
