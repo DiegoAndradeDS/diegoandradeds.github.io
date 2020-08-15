@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
 
-testnado escrever antes alterado 2
+testnado escrever antes alterado 23
 
 ## Introdução
 
@@ -39,7 +39,7 @@ df.head()
 
 
 <div>
-<table border="1" class="dataframe">
+<table border="1" class="dataframe table-responsive">
   <thead>
     <tr style="text-align: right;">
       <th></th>
