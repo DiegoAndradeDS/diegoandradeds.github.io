@@ -162,7 +162,7 @@ testando outro codigo
 <div>
 <table border="1" class="dataframe table-responsive">
   <thead>
-    <tr style="text-align: left;">
+    <tr style="text-align: center;">
       <th></th>
       <th>age</th>
       <th>workclass</th>
@@ -214,27 +214,27 @@ testando outro codigo
 df.info()
 ```
 
-    <class 'pandas.core.frame.DataFrame'>
-    RangeIndex: 54808 entries, 0 to 54807
-    Data columns (total 14 columns):
-     #   Column                Non-Null Count  Dtype  
-    ---  ------                --------------  -----  
-     0   employee_id           54808 non-null  int64  
-     1   department            54808 non-null  object 
-     2   region                54808 non-null  object 
-     3   education             52399 non-null  object 
-     4   gender                54808 non-null  object 
-     5   recruitment_channel   54808 non-null  object 
-     6   no_of_trainings       54808 non-null  int64  
-     7   age                   54808 non-null  int64  
-     8   previous_year_rating  50684 non-null  float64
-     9   length_of_service     54808 non-null  int64  
-     10  KPIs_met >80%         54808 non-null  int64  
-     11  awards_won?           54808 non-null  int64  
-     12  avg_training_score    54808 non-null  int64  
-     13  is_promoted           54808 non-null  int64  
-    dtypes: float64(1), int64(8), object(5)
-    memory usage: 5.9+ MB
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 54808 entries, 0 to 54807
+Data columns (total 14 columns):
+ #   Column                Non-Null Count  Dtype  
+---  ------                --------------  -----  
+ 0   employee_id           54808 non-null  int64  
+ 1   department            54808 non-null  object 
+ 2   region                54808 non-null  object 
+ 3   education             52399 non-null  object 
+ 4   gender                54808 non-null  object 
+ 5   recruitment_channel   54808 non-null  object 
+ 6   no_of_trainings       54808 non-null  int64  
+ 7   age                   54808 non-null  int64  
+ 8   previous_year_rating  50684 non-null  float64
+ 9   length_of_service     54808 non-null  int64  
+ 10  KPIs_met >80%         54808 non-null  int64  
+ 11  awards_won?           54808 non-null  int64  
+ 12  avg_training_score    54808 non-null  int64  
+ 13  is_promoted           54808 non-null  int64  
+dtypes: float64(1), int64(8), object(5)
+memory usage: 5.9+ MB
     
 
 
