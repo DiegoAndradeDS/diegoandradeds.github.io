@@ -214,9 +214,9 @@ testando outro codigo
 df.info()
 ```
 
-<class 'pandas.core.frame.DataFrame'>
-RangeIndex: 54808 entries, 0 to 54807
-Data columns (total 14 columns):
+  <class 'pandas.core.frame.DataFrame'>
+  RangeIndex: 54808 entries, 0 to 54807
+  Data columns (total 14 columns):
    #   Column                Non-Null Count  Dtype  
   ---  ------                --------------  -----  
    0   employee_id           54808 non-null  int64  
