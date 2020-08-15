@@ -53,6 +53,6 @@ def test_function(x, y):
 
 
 
-<center><img src="https://diegoandradeds.github.io/assets/img/analise_vendas_representantes/dados.png" width="450"></center>
+<center><img src="https://diegoandradeds.github.io/assets/img/recrutamento_interno/fototeste.png" width="450"></center>
 
 
